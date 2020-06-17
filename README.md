@@ -1,2 +1,2 @@
 # distant_supervised_slot_filling
-Refactoring the code, please email manch043@umn.edu for any queries.
+Please email manch043@umn.edu for any queries.
